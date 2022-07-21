@@ -1,4 +1,4 @@
-name: Dev1 Deploy
+name: Dev2 Deploy
 
 on:
   [push]
