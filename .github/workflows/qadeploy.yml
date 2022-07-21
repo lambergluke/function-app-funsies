@@ -1,4 +1,4 @@
-name: Dev1 Deploy
+name: QA Deploy
 
 on:
   [push]
